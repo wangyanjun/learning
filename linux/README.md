@@ -1,12 +1,37 @@
-# 常见Linux命令
+# Linux instructions
+## File manupulation
+1. Create file
+```bash
+touch a.txt
+```
 
-> 文件
-1. 删除文件 rm
+2. Delete file
 ```bash
 rm a.txt
 ```
-> 文件夹
 
-> 账户
+3. Dispaly text file
+```bash
+cat a.txt
+more a.txt
+less a.txt
+```
 
-> 用户组
+4. View top of file 
+```bash
+head a.txt
+head -n 10 a.txt
+```
+
+5. View tail of file
+```bash
+tail a.txt
+tail -n 10 a.txt
+```
+
+6. Edit a file 
+```bash
+vi a.txt
+vim a.txt
+nano a.txt
+```
