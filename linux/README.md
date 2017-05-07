@@ -10,7 +10,7 @@ touch a.txt
 rm a.txt
 ```
 
-3. Dispaly text file
+3. Display text file
 ```bash
 cat a.txt
 more a.txt
