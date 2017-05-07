@@ -2,10 +2,10 @@
 Recording learning
 
 # Resources
-[GitHub](www.github.com)
+[GitHub](https://www.github.com)
 
-[博客园](wwww.cnblogs.com)
+[博客园](http://wwww.cnblogs.com)
 
-[InfoQ](www.infoq.com.cn)
+[InfoQ](http://www.infoq.com.cn)
 
-[51CT0](www.51cto.com)
+[51CT0](http://www.51cto.com)
