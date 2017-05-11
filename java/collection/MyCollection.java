@@ -110,6 +110,7 @@ public class MyCollection<E> implements Collection<E> {
                         items[j - 1] = items[j];
                     }
 
+                    len--;
                     result = true;
                     break;
                 }
