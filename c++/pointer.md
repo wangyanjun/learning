@@ -1,6 +1,6 @@
 # summary of pointer
 
-# smart pointer
+# smart pointer unique_ptr shared_ptr weak_ptr
 
 ## 1. std::tr1::shared_ptr & std::tr1::make_shared
 std::shared_ptr 是通过指针保持对象共享所有权的智能指针。多个 shared_ptr 对象可占有同一对象。下列情况之一出现时销毁对象并解分配其内存：
