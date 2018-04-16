@@ -20,3 +20,5 @@ In Windows, usually use *WCHAR* typedef for *wchar_t*.
 # wcs wide character string
 
 # mbs multiple bytes string
+
+# format
